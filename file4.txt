@@ -1,0 +1,4 @@
+---
+- hosts:all
+  - name: this is a text file but contains ansible code
+
